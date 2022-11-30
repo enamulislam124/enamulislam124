@@ -16,14 +16,12 @@
 
 - 👨‍💻 <a href="https://sites.google.com/d/1bMRju0YvhVOSY7OdzMUPpkOXSaBR2UzV/p/1Tlrm-M9_W8FUnMcAU-ej1TlDEKC0thdC/edit?pli=1" rel="nofollow">My Online Portfolio</a>
 
-- 📝 <a href="https://sites.google.com/d/1bMRju0YvhVOSY7OdzMUPpkOXSaBR2UzV/p/165PheK86NMflOTqjaza8BF-t9sOkNryC/edit?pli=1" rel="nofollow">I regularly write articles</a>
+- 📝 <a href="https://sites.google.com/d/1bMRju0YvhVOSY7OdzMUPpkOXSaBR2UzV/p/165PheK86NMflOTqjaza8BF-t9sOkNryC/edit?pli=1" rel="nofollow">My articles</a>
 
-- 📄 <a href="https://sites.google.com/d/1bMRju0YvhVOSY7OdzMUPpkOXSaBR2UzV/p/1FFatjLx9ZIpY5mtAaatYzMLHLZubwlFb/edit?pli=1" rel="nofollow">Know about my experiences</a>
+- 📄 <a href="https://sites.google.com/d/1bMRju0YvhVOSY7OdzMUPpkOXSaBR2UzV/p/1FFatjLx9ZIpY5mtAaatYzMLHLZubwlFb/edit?pli=1" rel="nofollow">My Resume</a>
 
+- 📫 **islamenamul124@gmail.com**
 - 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **islamenamul124@gmail.com**
-
 - ⚡ Fun fact **I am funny 😂**
 
 <h3 align="left">Connect with me:</h3>
