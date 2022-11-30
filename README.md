@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Nice to see you.</h1>
-<h1 align="center">I'm Enamul Islam Monodol😎 </h1>
+<h1 align="left">Hi 👋, Nice to see you.</h1>
+<h1 align="center">I'm Enamul Islam Mondol😎 </h1>
 <h3 align="center">A aspiring data scientist from India</h3>
 🌱 <i>I’m currently learning</i> <b>Deep Learning, Machine Learning, Computer Vision etc.</b>
 
