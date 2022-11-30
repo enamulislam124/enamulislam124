@@ -1,4 +1,3 @@
-![logo](https://www.ubs.com/content/dam/ubs/microsites/artificial-intelligence/img-chapter-two-header.gif)
 <h1 align="center">Hi 👋, Nice to see you.</h1>
 <h1 align="center">I'm Enamul Islam Monodol😎 </h1>
 <h3 align="center">A aspiring data scientist from India</h3>
